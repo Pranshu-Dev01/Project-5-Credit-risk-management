@@ -39,9 +39,6 @@ A Regression type prediction model using *Random Forest Classifier* algorithm. I
 2) executed the command `docker build -t <docker_image_name> .` to build the docker image.
 3) executed the command `docker run <docker_image_name>` to run the docker image.
 
-#### Output
-![image](https://github.com/user-attachments/assets/ecae7506-6235-4910-b74d-92a2c26c9dac)
-
 
   ##### Command Prompt
  ![image](https://github.com/user-attachments/assets/a2d3b86c-f40b-4a92-9779-8b09c8873d81)
